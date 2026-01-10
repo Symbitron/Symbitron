@@ -28,7 +28,7 @@ I'm Nikita Konkov, a developer who loves to work with old game consoles and writ
 -   Low-Level System Development
 
 ##
-##### MIT License Copyright (c) 2025 Nikita's Permission is hereby granted, free of charge, etc.
+##### MIT License Copyright (c) 2026 Nikita's Permission is hereby granted, free of charge, etc.
 ##
 ![Top Langs](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
