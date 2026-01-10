@@ -20,19 +20,15 @@ Here are some ideas to get you started:
 # Welcome to My GitHub Profile!
 
 ## About Me
-I'm Nikita Konkov, a developer who loves to work with old game consoles and writing code in various programming languages.
+I'm Nikita Konkov, a developer who loves to work with old game consoles and write code in various programming languages.
 
 ## Interests
-- 🔭  Science
-- ⚡  Web Development
-- 🌱  Backend Development
-- 🖥   Low-Level Development
-
-## Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaKonkov&langs_count=6&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+-   Science Enthusiast
+-   Full-stack Web Development
+-   Low-Level System Development
 
 ##
-##### MIT License Copyright (c) 2025 Nikita's Permission is hereby granted, free of charge etc.
+##### MIT License Copyright (c) 2025 Nikita's Permission is hereby granted, free of charge, etc.
 ##
 ![Top Langs](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
